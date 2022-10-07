@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm feeniks</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feeniks01&label=Profile%20views&color=0e75b6&style=flat" alt="feeniks01" /> </p>
 
-- 🔭 I’m currently working on **bots**
+- 🔭 I’m currently working on **?**
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **js**
 
-- 📫 How to reach me **feeniks#0001**
+- 📫 How to reach me **@feeniks#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
